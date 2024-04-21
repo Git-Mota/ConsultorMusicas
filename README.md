@@ -164,7 +164,7 @@ Para executar o arquivo .jar do projeto, deverá ter o JDK 17 instalado em seu s
 2. Pelo prompt navegue até o diretório onde está localizado o arquivo .jar,dentro do repositório, usando o comando `cd`.                  
 Por exemplo:
 ```
-cd  C:\Users\Mario\Documents\consultorFipe\out\artifacts\consultorFipe_jar
+cd  C:\Users\Mario\Documents\ConsultorMusicas\out\artifacts\ConsultorMusicas_jar
 ```
 
 
